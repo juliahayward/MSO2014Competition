@@ -1,4 +1,4 @@
-MSO2014Competition
+MSO2014Competition2014
 ==================
 
 Code from the Mind Sports Olympiad XVIII Programming event, August 2014. 
