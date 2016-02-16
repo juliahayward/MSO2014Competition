@@ -6,7 +6,9 @@ Code from the Mind Sports Olympiad XVIII Programming event, August 2014.
 This is pretty much the code I wrote during the event, which is a 2.5 hour blitz to solve a number of coding
 problems. This code won me the silver medal; there were a couple of bugs which cost me gold, most notably the 
 backtracking in the Sudoku; both meant that the test cases we'd been given passed but the one used by the judge 
-failed. These bugs have been fixed and a few comments have been added.
+failed. These bugs have been fixed and a few comments have been added. It still appears to fail on the grid
+in the TrialData folder - maybe one day I will fix this but it's starting to feel non-authentic working
+on it too much after the event.
 
 THIS IS NOT INTENDED TO BE PRODUCTION QUALITY CODE - please do not assume I write like this in my day job! 
 The aim is to get through the problems as fast as you can, as it's barely possible to complete the lot in the
